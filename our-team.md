@@ -1,1 +1,15 @@
+# Our team! :wave:
 
+# ***เราจะมาสัมภาษณ์ข้อมูลของแต่ละคนกันนะครับ***
+
+## - Kongpob Phankum (ก้อง)
+
+## - Chanakarn Kruehong (บุ๊ค)
+
+## - Pinngam Sombutsri (พิณ)
+
+## - Jhatnphat Sarakal (อั้ม)
+
+## - Parnuwat Wongkrajang (โอม)
+
+## - Chanachai mainoy (บูม)
