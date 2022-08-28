@@ -1,9 +1,14 @@
 # Our team! :wave:
 
 
+
+### "Workhard"มาจากที่ทํางานเยอะและหนักมากๆอีกอย่างมันเท่ครับเลยตั้ง :grin:
+
+
 # ***เราจะมาสัมภาษณ์ข้อมูลของแต่ละคนกันนะครับ***
 
 ## - Kongpob Phankum (ก้อง)
+
 
 ## - Chanakarn Kruehong (บุ๊ค) :orange_book:
 ### ชื่ออะไรครับสุดหล่อ
@@ -24,6 +29,9 @@
 ## IG: [Bookcnk](https://www.instagram.com/book_cnk_/)
 
 ![book image](https://user-images.githubusercontent.com/110714067/185776342-e2fac266-d66d-48a5-8ae7-7df5908fca38.jpg)
+
+
+## - Chanakarn Kruehong (บุ๊ค)
 
 
 ## - Pinngam Sombutsri (พิณ)
