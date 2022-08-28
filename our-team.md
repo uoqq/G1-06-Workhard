@@ -38,7 +38,7 @@
 
 ##### เพิ่มเติม :sparkles:
 - FB : ohm parnuwat 
-- IG : [parnuuuu](https://www.instagram.com/parnuuuu/))
+- IG : [parnuuuu](https://www.instagram.com/parnuuuu/)
 - เบอร์ : 0830512924
 
 ## - Chanachai mainoy (บูม)
