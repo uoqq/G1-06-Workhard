@@ -33,4 +33,9 @@
 
 #### มีประเทศที่ชอบมั้ย
 > ญี่ปุ่น เพราะเมืองดูสบายตาดี
+
+### ช่องทางการติดต่อ
+- Facebook : MrChanachai Mainoy
+- Instagram : boom_cnc
+- เบอร์โทร : 090-9156232
 ## - Chanachai mainoy (บูม)
