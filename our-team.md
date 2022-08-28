@@ -55,13 +55,4 @@
 ![book image](https://user-images.githubusercontent.com/110714067/185776342-e2fac266-d66d-48a5-8ae7-7df5908fca38.jpg)
 
 
-## - Chanakarn Kruehong (บุ๊ค)
 
-
-## - Pinngam Sombutsri (พิณ)
-
-## - Jhatnphat Sarakal (อั้ม)
-
-## - Parnuwat Wongkrajang (โอม)
-
-## - Chanachai mainoy (บูม)
