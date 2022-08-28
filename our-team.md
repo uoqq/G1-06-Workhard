@@ -33,6 +33,8 @@
 
 #### มีประเทศที่ชอบมั้ย
 > ญี่ปุ่น เพราะเมืองดูสบายตาดี
+ 
+![Ohmpic](https://cdn.discordapp.com/attachments/928906634338648107/1013427654902419586/OhmLnwza.jpg)
 
 ### ช่องทางการติดต่อ
 - Facebook : MrChanachai Mainoy
