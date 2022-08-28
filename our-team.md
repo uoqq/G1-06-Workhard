@@ -30,5 +30,5 @@
 ### ชอบเล่นเกมอะไร :stars:
 > roblox , city skyline
 ### ช่องทางการติดต่อ :stars:
-- IG : IG: [boom_cnc](https://www.instagram.com/boom_cnc/)
+- IG: [boom_cnc](https://www.instagram.com/boom_cnc/)
 ![boom image](https://cdn.discordapp.com/attachments/1010811968053071962/1010812008645529600/PSX_20210502_202935.jpg)
