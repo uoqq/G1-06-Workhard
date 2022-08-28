@@ -22,8 +22,9 @@
 
 Facebook: [Kongpob Phankum](https://www.facebook.com/kongpob.phunkum)
 
+![298384067_449790047022201_4085510878450822927_n](https://user-images.githubusercontent.com/93758992/187074250-9074f75f-9642-46c5-8bc3-3fabfae967dd.jpg)
 
-![301271748_797992504717847_6450586561117808603_n](https://user-images.githubusercontent.com/93758992/187074172-e0eb2d21-4520-44bf-a2c6-0c1e540f9682.jpg)
+
 
 
 
