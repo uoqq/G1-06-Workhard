@@ -1,18 +1,92 @@
 # Our team! :wave:
 
+
+
 ### "Workhard"มาจากที่ทํางานเยอะและหนักมากๆอีกอย่างมันเท่ครับเลยตั้ง :grin:
+
 
 # ***เราจะมาสัมภาษณ์ข้อมูลของแต่ละคนกันนะครับ***
 
 ## - Kongpob Phankum (ก้อง)
+### ชื่ออะไรครับสุดหล่อ :blush:
+> ก้องงับบ
+### สถานะในตอนนี้เป็นไง :sparkling_heart:
+> มีสาวบนไบโอ
+### งานอดิเรกที่ชอบทำมีอะไรบ้าง :question:
+> ชอบเล่นเกมกับสาว
+### มาจากจังหวัดอะไร :running:
+> ชลบุหลี้
+### มาจากโรงเรียนอะไร :cyclone:
+> หลังเขา
+### อาชีพที่อยากทำในอนาคต :gift_heart:
+> เป็น Backdoor dev งัฟฟฟ
+### อยากไปเที่ยวประเทศไหน :radio:
+> เมกา
+### ข้อดีของตัวเอง :bookmark_tabs:
+> หล่อเท่ 
 
-## - Chanakarn Kruehong (บุ๊ค)
+## IG: [Kongpob Phankum](https://www.instagram.com/kongpobpk_/)
 
-## - Pinngam Sombutsri (พิณ)
+![298384067_449790047022201_4085510878450822927_n](https://user-images.githubusercontent.com/93758992/187074250-9074f75f-9642-46c5-8bc3-3fabfae967dd.jpg)
 
-## - Jhatnphat Sarakal (อั้ม)
+
+
+
+
+
+## - Chanakarn Kruehong (บุ๊ค) :orange_book:
+### ชื่ออะไรครับสุดหล่อ
+> บุ๊คครับบ :books:
+### สถานะในตอนนี้เป็นไง :cocktail:
+> คุยอยู่ 4 ครับ มีกิ้กหนึ่ง คุยกับคนมีเจ้าของอีกหนึ่ง คุยกับผู้ชายอีกหนึ่งคน คุยกับชู้อีกหนึ่งครับ :ribbon:
+### งานอดิเรกที่ชอบทำมีอะไรบ้าง :house_with_garden:
+> กีฬาในร่มก้มแล้วแทง :underage:
+### มาจากจังหวัดอะไร :on:
+> ซาอุดิอาราเบียครับ :heavy_check_mark:
+### มาจากโรงเรียนอะไร :school:
+> เทพศิรินทร์ครับ :eight_spoked_asterisk:
+### อาชีพที่อยากทำในอนาคต :part_alternation_mark:
+> ทํางานกลางคืนแถวพัทยาใต้ครับ :city_sunrise:
+### อยากไปเที่ยวประเทศไหน :stars:
+> อยากไปเที่ยวในใจคุณครับ :cupid:
+
+## IG: [Bookcnk](https://www.instagram.com/book_cnk_/)
+
+![book image](https://user-images.githubusercontent.com/110714067/185776342-e2fac266-d66d-48a5-8ae7-7df5908fca38.jpg)
+
+
 
 ## - Parnuwat Wongkrajang (โอม)
+#### โรงเรียนเก่า
+> โรงเรียนมัธยมวัดสิงห์
+
+#### วันเกิด
+> 20 มกราคม 2547
+
+#### สิ่งที่ชอบ
+> ชอบเล่นดนตรี(:guitar:) เคยเป็นนักดนตรีโรงเรียนมาก่อน
+
+#### สิ่งที่ไม่ชอบ
+> แมงมุม (เกลียด) :boom:
+
+#### ปกตินอนวันละกี่ชม 
+> 7 ชม เริ่มนอน 5 ทุ่ม
+
+#### ถ้าได้พลังพิเศษอะไรสักอย่างอยากได้อะไร
+> อ่านใจคนอื่นได้
+
+#### มีประเทศที่ชอบมั้ย
+> ญี่ปุ่น เพราะเมืองดูสบายตาดี
+ 
+![Ohmpic](https://cdn.discordapp.com/attachments/928906634338648107/1013427654902419586/OhmLnwza.jpg)
+
+##### เพิ่มเติม :sparkles:
+- FB : ohm parnuwat 
+- IG : [parnuuuu](https://www.instagram.com/parnuuuu/)
+- เบอร์ : 0830512924
+=======
+
+
 
 ## - Chanachai mainoy (บูม)
 ### รีวิวการเรียนหน่อยครับ :stars:
@@ -32,3 +106,5 @@
 ### ช่องทางการติดต่อ :stars:
 - IG: [boom_cnc](https://www.instagram.com/boom_cnc/)
 ![boom image](https://cdn.discordapp.com/attachments/1010811968053071962/1010812008645529600/PSX_20210502_202935.jpg)
+=======
+
