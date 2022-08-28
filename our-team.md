@@ -36,8 +36,9 @@
  
 ![Ohmpic](https://cdn.discordapp.com/attachments/928906634338648107/1013427654902419586/OhmLnwza.jpg)
 
-### ช่องทางการติดต่อ
-- Facebook : MrChanachai Mainoy
-- Instagram : boom_cnc
-- เบอร์โทร : 090-9156232
+##### เพิ่มเติม :sparkles:
+- FB : ohm parnuwat 
+- IG : [parnuuuu](parnuuuu)
+- เบอร์ : 0830512924
+
 ## - Chanachai mainoy (บูม)
