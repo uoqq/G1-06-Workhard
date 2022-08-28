@@ -34,6 +34,28 @@
 
 
 
+## - Jhatnphat Sarakal (อั้ม)
+#### ทำไมถึงเรียนในสายIT :earth_asia: 
+> เพราะว่าอยากเป็นโปรแกรมเมอร์ครับบ
+#### 3สิ่งที่ชอบในมอ :bookmark_tabs:
+> เธอ เธอ และ ก็เธอ
+#### โตขึ้นอยากเป็นอะไร :bookmark:
+> อยากเป็นคนของเธอ
+#### ลักษณะนิสัยของตัวเองเป็นยังไง :ghost:
+> เป็นคนพลังบวก ที่ชอบให้พลังบวกกับทุกคน
+#### ชอบทะเลหรือภูเขา :basecamp:
+> ทะเล
+#### ตอนเวลาว่างชอบทำอะไร :mag_right:
+> ไม่นอนก็เล่นเกม
+
+### ข้อมูลติดต่อ :telephone_receiver:
+- IG : [its.amxy_](https://www.instagram.com/its.amxy_/)
+
+![Aumpix](https://cdn.discordapp.com/attachments/1010811968053071962/1010812545952649278/IMG_2057.JPG)
+
+made by Chanachai Mainoy :broccoli:
+
+
 ## - Chanakarn Kruehong (บุ๊ค) :orange_book:
 ### ชื่ออะไรครับสุดหล่อ
 > บุ๊คครับบ :books:
@@ -53,6 +75,7 @@
 ## IG: [Bookcnk](https://www.instagram.com/book_cnk_/)
 
 ![book image](https://user-images.githubusercontent.com/110714067/185776342-e2fac266-d66d-48a5-8ae7-7df5908fca38.jpg)
+
 
 
 
