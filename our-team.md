@@ -20,7 +20,7 @@
 ### ข้อดีของตัวเอง :bookmark_tabs:
 > หล่อเท่ 
 
-Facebook: [Kongpob Phankum](https://www.facebook.com/kongpob.phunkum)
+IG: [Kongpob Phankum](https://www.instagram.com/kongpobpk_/)
 
 ![298384067_449790047022201_4085510878450822927_n](https://user-images.githubusercontent.com/93758992/187074250-9074f75f-9642-46c5-8bc3-3fabfae967dd.jpg)
 
