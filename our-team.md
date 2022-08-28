@@ -20,6 +20,8 @@
 ### ข้อดีของตัวเอง :bookmark_tabs:
 > หล่อเท่ 
 
+Facebook: [Kongpob Phankum](https://www.facebook.com/kongpob.phunkum)
+
 ![kong image](https://user-images.githubusercontent.com/93758992/185793163-6ad7459b-8b17-47ad-9505-a92688554553.jpg)
 
 ## - Chanakarn Kruehong (บุ๊ค)
