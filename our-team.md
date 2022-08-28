@@ -3,6 +3,8 @@
 
 # ***เราจะมาสัมภาษณ์ข้อมูลของแต่ละคนกันนะครับ***
 
+## - Kongpob Phankum (ก้อง)
+
 ## - Chanakarn Kruehong (บุ๊ค) :orange_book:
 ### ชื่ออะไรครับสุดหล่อ
 > บุ๊คครับบ :books:
@@ -20,3 +22,12 @@
 > อยากไปเที่ยวในใจคุณครับ :cupid:
 
 ![book image](https://user-images.githubusercontent.com/110714067/185776342-e2fac266-d66d-48a5-8ae7-7df5908fca38.jpg)
+
+
+## - Pinngam Sombutsri (พิณ)
+
+## - Jhatnphat Sarakal (อั้ม)
+
+## - Parnuwat Wongkrajang (โอม)
+
+## - Chanachai mainoy (บูม)
