@@ -22,7 +22,9 @@
 
 Facebook: [Kongpob Phankum](https://www.facebook.com/kongpob.phunkum)
 
-![kong image](https://user-images.githubusercontent.com/93758992/185793163-6ad7459b-8b17-47ad-9505-a92688554553.jpg)
+
+![kong image][301271748_797992504717847_6450586561117808603_n](https://user-images.githubusercontent.com/93758992/187074145-0e3bc653-1b20-4b3b-ae28-4fa607acdb06.jpg)
+
 
 ## - Chanakarn Kruehong (บุ๊ค)
 
