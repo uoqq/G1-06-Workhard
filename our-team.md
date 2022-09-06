@@ -30,5 +30,5 @@
 - FB : ohm parnuwat 
 - IG : [parnuuuu](https://www.instagram.com/parnuuuu/)
 - เบอร์ : 0830512924
-สัมภาษณ์โดย : พิณงาม สมบัติศรี :gun:
+**สัมภาษณ์โดย : พิณงาม สมบัติศรี :gun:**
 
