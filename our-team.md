@@ -30,4 +30,4 @@
 ### *ฝากช่องทางการติดต่อหน่อย?*
 > - IG : [kongpobpk_](https://www.instagram.com/kongpobpk_/)
 
-**สัมภาษณ์โดย : Chanakarn Kruehong (บุ๊ค) **
+**สัมภาษณ์โดย : Chanakarn Kruehong (บุ๊ค)**
