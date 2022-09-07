@@ -31,7 +31,7 @@
 ### ฝากช่องทางการติดต่อหน่อย? :birthday:
 > - IG : [book_cnk_](https://www.instagram.com/book_cnk_/)
 
-** สัมภาษณ์โดย : Kongpob Phankum (ก้อง) **
+**สัมภาษณ์โดย : Kongpob Phankum (ก้อง)**
 
 
 ## - Chanakarn Kruehong (บุ๊ค)
