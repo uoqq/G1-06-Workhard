@@ -13,7 +13,6 @@
 
 ## Say Do Think Feel :grin:
  คำพูด-กรกระทำ-คามคิด-คามรู้สึก ของผู้ใช้
-## Say Do Think Feel ของก้อง
 ### say :notes:
 > ก้องบอกว่าอยากสดชื่นก่อนที่จะถ่าย mv 
 ### do :rooster:
