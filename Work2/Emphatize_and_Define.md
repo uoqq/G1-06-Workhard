@@ -1,5 +1,5 @@
-# POV statement :santa:
-**1. We met : [Kongpob Phankum](https://www.instagram.com/kongpobpk_/)**
+# Empahthize and Defind 
+### เกี่ยวกับการรับประทานอาหารใน 1 วัน
 
 **2. We were Surprised to notice : การกินชาไทยของก้องตอน 9 โมงเช้า**
 
@@ -8,3 +8,48 @@
 **4 it would be game-changing to : การที่ก้องสดชื่นจะทำให้ก้องมีแรงออกไปทำเพลงที่สตูดิโอแล้วก็ถ่ายทำ mv เพลง จะได้ทำงานอย่างเต็มที่** 
 
 > บันทึกโดย ชนกานต์
+
+## Question - Answer :mag_right:
+ คำถามระหว่างสัมภาษณ์
+>
+บันทึกโดย **_ชื่อ_**
+
+## What? How? Why? Table :date:
+ จากที่สัมภาษณ์ผู้ใช้มีกิจกรรมอะไรบ้าง
+>
+บันทึกโดย **_ชื่อ_**
+
+## Say Do Think Feel :grin:
+ คำพูด-กรกระทำ-คามคิด-คามรู้สึก ของผู้ใช้
+
+บันทึกโดย **_ชื่อ_**
+
+## Journey Map Tour :chart_with_upwards_trend:
+ แผนผังเกี่ยวกับการกินใน 1 วัน
+
+บันทึกโดย **_ชื่อ_**
+
+## Summary form class presentation and Feedback :clipboard:
+ สรุปผลการนำเสนอ และคำแนะนำ จากเพื่อนๆ
+
+บันทึกโดย **_ชื่อ_**
+
+## Revise form Feedback :notebook:
+ ข้อมูลที่ได้นำข้อแนะนำมาปรับปรุงแก้ไข
+
+บันทึกโดย **_ชื่อ_**
+
+## Need & Insight :pushpin:
+ ความต้องการ และข้อมูลเชิงลึก
+
+บันทึกโดย **_ชื่อ_**
+
+## Point Of view :santa:
+ มุมมองของผู้สัมภาษณ์
+- **We met : [Kongpob Phankum](https://www.instagram.com/kongpobpk_/)**
+- **We were Surprised to notice : การอัดเพลงที่สตูดิโอเพื่อปล่อยลง YouTube ทั้งเช้าและเย็น**
+- **We wonder if this means : การที่ก้องขยันทำเพลงเพื่อปล่อยลง Youtube จะได้มีคนมาฟังเพลงของก้องเยอะๆ แล้วก้องก็จะได้เงินจากการที่คนเข้ามาฟังเพลงของก้อง**
+- **it would be game-changing to : การที่ก้องได้เงินจากการทำเพลงจะทำให้ก้องสบายขึ้น ซื้อสิ่งของที่อยากได้ หรือไม่ว่าจะเป็นการซื้อของกินต่างๆ  ก้องจะไม่ได้ต้องหาต้องขอเงินพ่อและแม่เยอะมาก**
+
+บันทึกโดย **_ชื่อ_**
+
