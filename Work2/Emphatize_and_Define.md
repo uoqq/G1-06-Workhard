@@ -19,7 +19,7 @@
 ## Journey Map Tour :chart_with_upwards_trend:
  แผนผังเกี่ยวกับการกินใน 1 วัน
 
-![Journeymaptour](Work2/)
+![Journeymaptour](/Work2/png/journey_map1.jpg)
 
 บันทึกโดย **_ชื่อ_**
 
@@ -30,6 +30,8 @@
 
 ## Revise form Feedback :notebook:
  ข้อมูลที่ได้นำข้อแนะนำมาปรับปรุงแก้ไข
+ 
+ ![Journeymapedit](/Work2/png/journey_map2.jpg)
 
 บันทึกโดย **_ชื่อ_**
 
