@@ -19,6 +19,8 @@
 ## Journey Map Tour :chart_with_upwards_trend:
  แผนผังเกี่ยวกับการกินใน 1 วัน
 
+![Journeymaptour](Work2/)
+
 บันทึกโดย **_ชื่อ_**
 
 ## Summary form class presentation and Feedback :clipboard:
