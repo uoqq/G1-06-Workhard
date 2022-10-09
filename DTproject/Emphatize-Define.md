@@ -104,11 +104,14 @@
 
 # Define
 ### Journey map
+![journeyMap01](Picture/journey01.png)
+![journeyMap02](Picture/journey02.png)
+บันทึกโดย **_บูม_**
 ### User persona
 
 ![userPersona](Picture/userPersona.png)
 
-บันทึกโดย *อั้ม*
+บันทึกโดย **_อั้ม_**
 
 ### Identified insights :flags:
 - Need
@@ -116,7 +119,7 @@
 - Insight
 > นางใจดีพยายามทำให้ตัวเองสุขภาพดีเท่าที่ตัวเองทำได้ แต่ก็ยังมีปัญหานอนไม่หลับ อาจจะแก้ปัญหาเรื่องสภาพแวดล้อมแทน  
 
-บันทึกโดย *พิณงาม*
+บันทึกโดย **_พิณงาม_**
 ### PoV statement
 มุมมองของผู้สัมภาษณ์
 
