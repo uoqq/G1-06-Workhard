@@ -18,6 +18,11 @@
 # Define
 ### Journey map
 ### User persona
+
+![userPersona](Picture/userPersona.png)
+
+บันทึกโดย *อั้ม*
+
 ### Identified insights :flags:
 - Need
 > มีความต้องการที่จะนอนหลับสบาย อยากจะแก้ปัญหาการนอนไม่หลับ แต่คาดว่าที่ตัวเองทำอาจไม่ใช่วิธีที่ดีที่สุด
