@@ -118,8 +118,14 @@
 
 # Define
 ### Journey map
+#### นางใจดี ยิ้มแย้ม
 ![journeyMap01](Picture/journey01.png)
 ![journeyMap02](Picture/journey02.png)
+
+#### นางโครเชต์ ไหมไทย
+![J2-1](Picture/P2-1.png)
+![J2-2](Picture/p2-2.png)
+
 บันทึกโดย **_บูม_**
 ### User persona
 
