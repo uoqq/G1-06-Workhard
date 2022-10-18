@@ -110,6 +110,7 @@
 ### User persona
 
 ![userPersona](Picture/userPersona.png)
+![userPersona2](Picture/userPersona2.png)
 
 บันทึกโดย **_อั้ม_**
 
