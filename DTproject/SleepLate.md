@@ -132,3 +132,29 @@
 **4. it would be game-changing to : ทำให้มีสุขภาพดีเนื่องจากสามารถนอนได้เต็มเวลา** 
 
 บันทึกโดย **_ชนกานต์_**
+
+# Ideate
+### แบ่งหมวดหมู่ไอเดีย
+> ได้ 4 หมวดคือ Rational Chice, Delight, Darling, Long-Shot กลุ่มเราได้ระดมสมองไอเดียต่างๆผ่านเว็บไซต์ canva จนได้มาตามภาพที่เห็นด้านล่าง 
+ 
+![Ideation](Picture/Ideate.png)
+ 
+#### โดยสรุปทางกลุ่มได้พิจารณาและตัดสินใจทำ *แพลตฟอร์มที่รวบรวมเสียงเพื่อให้นอนหลับ* 
+
+
+# Phototype 
+> ใส่รูป
+
+# Test
+### StoryBoard
+> สตอรี่บอร์ด 
+
+### Feedback
+#### Like it :thumbsup:
+> บลา
+#### Change it :warning:
+> บลา
+#### Question raised :grey_question:
+> บลา
+#### Ideas raised :bulb:
+> บลา
