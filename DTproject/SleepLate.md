@@ -259,13 +259,10 @@
 
 # Test
 ### Feedback
-#### Like it :thumbsup:
-> บลา
-#### Change it :warning:
-> บลา
-#### Question raised :grey_question:
-> บลา
-#### Ideas raised :bulb:
-> บลา
+
+![feedback](Picture/feedback.png)
 
 ### สิ่งที่จะนำไปปรับปรุงต่อไป
+> ปรับโทนสีให้สบายตา
+> เพิ่มขนาดฟ้อนให้อ่านง่ายขึ้น ฟ้อนต้องไม่ลายตา
+> เพิ่มเนื้อหาอื่นๆนอกจากบทสวด เช่น เพลงสบายๆ
